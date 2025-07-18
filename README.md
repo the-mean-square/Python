@@ -5,5 +5,7 @@ strings - indexing, slicing, concatenation, repetition, substring check
 i/o and type conversions
 
 week 2 - grpas 1 to 5
-topics:
+topics:variables, string escaping, conditionals
+
+week 3- while & for loops
 
