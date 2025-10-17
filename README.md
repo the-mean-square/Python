@@ -9,6 +9,7 @@ topics:variables, string escaping, conditionals
 
 week 3- while & for loops
 
-week 4-
+week 4- to do
 
-week 5 -
+week 5 - to do
+
